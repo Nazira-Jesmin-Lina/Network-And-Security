@@ -1,0 +1,11 @@
+we stand today on the brink of,a revolution in cryptography.
+probabilistic encryption is thi use of randomness in an encr
+secure Sockets Layer (SSL), ary cryptographic protocols that
+this document will detail a vuhnerability in the ssh cryptog
+mIT developed Kerberos to protact network services provided 
+nIST announced a competition tS develop a new cryptographic 
+diffie-Hellman establishes a stared secret that can be used 
+public-key cryptography refers,to a cryptographic system req
+the keys used to sign the certmficates had been stolen from 
+we hope this inspires others tk work in this fascinating fie
+Pad used: [119, 75, 116, 51, 85, 113, 72, 105, 76, 78, 114, 79, 84, 49, 71, 101, 71, 88, 116, 78, 113, 102, 113, 87, 84, 65, 51, 55, 99, 56, 107, 69, 116, 105, 110, 109, 97, 113, 79, 106, 122, 68, 66, 98, 77, 72, 112, 72, 55, 53, 104, 54, 99, 71, 87, 97, 68, 98, 112, 49]
